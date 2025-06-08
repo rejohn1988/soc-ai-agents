@@ -1,1 +1,69 @@
-asyncio>=3.4.3
+# Core dependencies
+python>=3.8
+
+# AI and Machine Learning
+openai>=1.0.0
+anthropic>=0.8.0
+transformers>=4.20.0
+torch>=1.12.0
+numpy>=1.21.0
+pandas>=1.4.0
+scikit-learn>=1.1.0
+
+# Web framework and API
+flask>=2.2.0
+fastapi>=0.95.0
+uvicorn>=0.20.0
+requests>=2.28.0
+
+# Database and storage
+sqlite3  # Built into Python
+sqlalchemy>=1.4.0
+redis>=4.0.0
+
+# Monitoring and logging
+psutil>=5.9.0
+loguru>=0.6.0
+prometheus-client>=0.15.0
+
+# Security and encryption
+cryptography>=3.4.0
+pyjwt>=2.4.0
+bcrypt>=3.2.0
+
+# Configuration and environment
+python-dotenv>=0.19.0
+pyyaml>=6.0
+configparser>=5.2.0
+
+# Testing
+pytest>=7.0.0
+pytest-asyncio>=0.20.0
+pytest-cov>=4.0.0
+mock>=4.0.0
+
+# Development tools
+black>=22.0.0
+flake8>=5.0.0
+mypy>=0.990
+pre-commit>=2.20.0
+
+# Async and concurrency
+asyncio  # Built into Python 3.7+
+aiohttp>=3.8.0
+celery>=5.2.0
+
+# Utilities
+tqdm>=4.64.0
+rich>=12.0.0
+click>=8.1.0
+schedule>=1.2.0
+
+# Network and security scanning
+nmap>=0.1.4
+scapy>=2.4.5
+python-nmap>=0.7.1
+
+# Time and date handling
+python-dateutil>=2.8.0
+pytz>=2022.1
