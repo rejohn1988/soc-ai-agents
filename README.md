@@ -136,6 +136,14 @@ Found a bug or have a suggestion? Please [open an issue](https://github.com/your
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## System Requirements
+- Kali Linux (tested on latest version)
+- Python 3.8+
+- Virtual environment recommended
+
+### Note for Kali users:
+If you see GPG key warnings, these are system-level issues unrelated to the SOC project.
+
 ## 🙏 Acknowledgments
 
 - Thanks to the cybersecurity community for inspiration
