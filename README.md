@@ -152,8 +152,8 @@ If you see GPG key warnings, these are system-level issues unrelated to the SOC 
 
 ## 📞 Contact
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@rejohn1988](https://github.com/rejohn1988)
+- Email: crazy88@gmail.com
 
 ---
 
